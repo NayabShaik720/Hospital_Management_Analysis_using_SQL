@@ -123,5 +123,4 @@ Hospital-management-system/
 
 └── README.md                    # Project documentation
 
-## 📫 Contact
-If you'd like to discuss this project, collaborate, or have any feedback, feel free to connect via GitHub or connect me at ank30.sharma@gmail.com.
+
